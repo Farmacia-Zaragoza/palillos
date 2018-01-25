@@ -1,0 +1,4 @@
+# Palillos Project - V01
+# Circle instead square + circle
+# No palillo shape on horizontal marquee
+
